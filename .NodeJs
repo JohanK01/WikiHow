@@ -1,0 +1,15 @@
+Checklist for NodeJS
+* Be in the right folder
+* .gitignore
+* npm -v, node -v, git --version, heroku -v
+* if you don't have the right tools download it or uppdate it
+* npm init
+* git init
+* git add 
+* git commit -m "comment"
+
+* code .
+* code .serverjs
+
+=================================================================
+if you don't have nodemon write in the cmd: npm install nodemon -g
