@@ -1,1 +1,3 @@
-express-generator view=pug
+npx express-generator --view=pug --git <name>
+npm install
+
