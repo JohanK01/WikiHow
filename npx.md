@@ -1,0 +1,1 @@
+express-generator view=pug
